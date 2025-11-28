@@ -1,0 +1,9 @@
+{
+  "name": "splitter",
+  "version": "1.0.0",
+  "dependencies": {
+    "multer": "^1.4.5",
+    "xlsx": "^0.18.5",
+    "archiver": "^5.3.2"
+  }
+}
